@@ -11,4 +11,5 @@ export const LayoutContainer = styled.div `
 
     display: flex;
     flex-direction: column;
+    outline: 2px solid black;
 `;
